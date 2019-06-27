@@ -19,7 +19,7 @@ sass:
 author:
   name:              Muhammed Galib Uludag
   url:               https://twitter.com/cheytacllc
-  email:             m231@.com
+  email:             m231@tnctr.com
 
 # Custom vars
 version:             2.0.1
@@ -28,7 +28,7 @@ github:
 google_analytics:    UA-3363703-15
 twitter:             cheytacllc
 github:              cheytacllc
-#dribbble:            jamigibbs
+dribbble:            jamigibbs
 
 # Gems
 plugins:
