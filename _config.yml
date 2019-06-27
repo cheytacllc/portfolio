@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Muhammed Galib Uludag
+tagline:             C++ and Qt Software Developer.
+url:                 https://cheytacllc.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Muhammed Galib Uludag
+  url:               https://twitter.com/cheytacllc
+  email:             m231@.com
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/jamigibbs/portfolio
+google_analytics:    UA-3363703-15
+twitter:             cheytacllc
+github:              cheytacllc
+#dribbble:            jamigibbs
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist
